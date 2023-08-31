@@ -11,10 +11,7 @@ html, body {
 body {
   text-align: center;
   font: 15pt Arial;
-  background: rgb(238,174,202);
-  background: linear-gradient(
-    70deg, rgba(238,174,202,1) 0%,
-    rgba(148,187,233,1) 100%);
+  background: #000000;
 }
 h1 {
   font-family: 'Oxanium', cursive;
